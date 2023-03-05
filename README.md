@@ -19,13 +19,13 @@ read from a second file foods.txt the detailed data on the cost and calories of 
 
 manage any exceptions in reading from file
 
-print the list of ingredients of the recipe, reporting them one per line and separating the ingredient name and quantity from a " - "
+1)print the list of ingredients of the recipe, reporting them one per line and separating the ingredient name and quantity from a " - "
 
-print the number of ingredients needed to make the recipe
+2)print the number of ingredients needed to make the recipe
 
-print the total cost of the recipe
+3)print the total cost of the recipe
 
-print the total calories of the recipe
+4)print the total calories of the recipe
 
 Example of Execution
 Example of program output, based on the polenta_concia.txt file:
