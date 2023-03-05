@@ -37,5 +37,5 @@ Fontina - 200.0
 Butter - 200.0
 
 Number of ingredients: 4
-Recipe cost: 7.52
-Recipe calories: 2928.0
+Recipe cost: 8.623
+Recipe calories: 4738.0
